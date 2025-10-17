@@ -1,0 +1,23 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3B82F6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8B5CF6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background Circle -->
+  <circle cx="16" cy="16" r="15" fill="url(#gradient)" stroke="none"/>
+  
+  <!-- AI Brain Icon -->
+  <path d="M12 8c-2.21 0-4 1.79-4 4 0 .74.2 1.43.55 2.02L7.5 15.07c-.83.83-.83 2.17 0 3l1.07 1.07c.59.35 1.28.55 2.02.55 2.21 0 4-1.79 4-4s-1.79-4-4-4z" fill="white" opacity="0.9"/>
+  <path d="M20 8c2.21 0 4 1.79 4 4 0 .74-.2 1.43-.55 2.02l1.05 1.05c.83.83.83 2.17 0 3l-1.07 1.07c-.59.35-1.28.55-2.02.55-2.21 0-4-1.79-4-4s1.79-4 4-4z" fill="white" opacity="0.9"/>
+  
+  <!-- Neural Network Lines -->
+  <line x1="12" y1="12" x2="20" y2="12" stroke="white" stroke-width="1.5" opacity="0.7"/>
+  <line x1="14" y1="16" x2="18" y2="16" stroke="white" stroke-width="1.5" opacity="0.7"/>
+  <line x1="16" y1="8" x2="16" y2="24" stroke="white" stroke-width="1.5" opacity="0.5"/>
+  
+  <!-- Central Processing Node -->
+  <circle cx="16" cy="16" r="2" fill="white"/>
+</svg>
